@@ -1,0 +1,20 @@
+About Git:-
+1. Distributed Version Control: refers to a version control system where the entire repository,
+   including its full history and all branches, is mirrored on every developer's local machine.
+2. Efficient Branching and Merging: A problem can be solved as small problems by branching and then can be merged easily.
+3. Enhanced collaboration: GitHub offers a platform for issue tracking, pull requests, and community involvement. 
+4. Social Coding Hub: Became a center for open-source projects and collaboration.  Enabled transparency, faster operations, 
+  and simplified conflict resolution.
+
+Concepts in Git:-
+1. Repository: It is a collection of files and directories.
+2. Commit: Commit refers to saving the changes made to the repository.
+3. Branch: Branch allows to code seperately another problem and thereafter merging it. There is a default MAIN branch where
+           codes are initially stored.
+4. Pull request: It is a way to propose changes to a repository. It allows others to review and discuss the proposed 
+            changes before merging them into the main branch.
+5. Push: It is the process of uploading local changes to a remote repository.
+6. Clone: Cloning is the process of creating a copy of a remote repository on your local machine. 
+         This allows to start working with the codebase and history.
+7. Forking: Forking in Git refers to the process of creating a personal copy of someone else's repository. 
+          We can make changes to it without affecting the original project.
