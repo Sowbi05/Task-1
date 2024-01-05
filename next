@@ -1,0 +1,15 @@
+GitHub    - Offers features like pull requests, issues, and project boards for effective collaboration.
+          - Majorly used for open source projects
+GitLab    - Provides source code management, continuous integration, CI/CD pipelines, code review, and issue tracking.
+          - One significant feature is that it offers a free and open-source self-hosted version, 
+           allowing organizations to run GitLab on their own infrastructure.
+          - used for both open source and private projects.
+BitBucket - Git repository hosting service that is often associated with Atlassian products.
+          - It provides features such as code collaboration, continuous integration, and issue tracking.
+
+All three platforms support Git repositories, allowing users to manage and collaborate on code using Git's
+distributed version control system.
+
+GitHub has a strong focus on open-source projects and is widely used for public repositories.
+GitLab provides a self-hosted option, making it suitable for organizations that prefer to manage their infrastructure.
+Bitbucket integrates well with other Atlassian tools, providing a comprehensive solution for project management.
