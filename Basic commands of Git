@@ -1,0 +1,5 @@
+1. git config                           - used to config file to git
+2. git clone                            - used to clone repository
+3. git add .                            - used to add all changes made in the repository
+4. git commit -m "Your commit message"  - used to commit changes with a commit message
+5. git branch <branch_name>             - used to create a new branch
